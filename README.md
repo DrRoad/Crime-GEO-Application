@@ -54,5 +54,5 @@ All we need to do is just draw the area and crimes will be found
 * k-NN or Nearest Neighbour:
 Let's find closest crimes to a specified one
 ![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/knn_query.png)
-* Cluster Linkages (Complete Linkage)
+* Cluster Linkages (Complete Linkage): The distance between two farthest points in clusters
 ![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/complete_linkage.png)
