@@ -11,12 +11,12 @@ It is a key component which allows police officers and criminalysts identify pat
 Having a crime mapping application allows to take right actions and prevent future crimes.
 
 # Application Tools 
-
-![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/app_tools.png)
+The application is written on R language and uses the following main libraries:
+-	Leaflet 
+-	Shiny
+-	DBI and RPostgreSQL
 
 # Dataset Description
-![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/city.png)
-![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/data_set.png)
 
 # Database description
 The application uses PostgreSQL and PostGIS extension for spatial queries. Before inserting the data into the database, all tables and PostGIS extension have to be created.
@@ -24,6 +24,4 @@ The application uses PostgreSQL and PostGIS extension for spatial queries. Befor
 ![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/db_structure.png)
 
 # Implemented Spatial Queries 
-
-![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/implemented_queries.png)
 
