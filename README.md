@@ -19,8 +19,10 @@ The application is written on R language and uses the following main libraries:
 # Dataset Description
 The first dataset contains crime data and can be easily downloaded from the website of New York City:
 * NYC Open Data: https://opendata.cityofnewyork.us/
+
 The second dataset contains boroughs of New York:
 * ArcGIS Hub: https://hub.arcgis.com/datasets/DCP::new-york-city-borough-boundary-clipped-to-shoreline
+
 ![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/city.png)
 ![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/data_set.png)
 
