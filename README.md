@@ -32,4 +32,27 @@ The application uses PostgreSQL and PostGIS extension for spatial queries. Befor
 ![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/db_structure.png)
 
 # Implemented Spatial Queries 
+* Simple Text Query (Show me Crimes in Brooklyn)
+* New Crime Inserting (Add a new crime with its features)
+* New Area Inserting (Can add new polygon/area of a crime)
+* k-NN or Nearest Neighbour (Find closest neighbours to a certain crime)
+* Searching in a Radius (Can find crimes in a certain radius)
+* Searching in a Certain Area/Polygon (Can find crimes in certain areas)
+* Categorical Query (Cann find a crime with specific properties,like age,place or gender...)
+* Cluster Linkages (Queries which is based on formulas from Clustering in Machine Learning Field):
+  * UPGMA Linkage
+  * Centroid Linkage
+  * Complete Linkage
+  * Single Linkage
 
+# Examples 
+* Searching in a Radius:
+![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/radius_query.png)
+* Searching in a Certain Area/Polygon:
+All we need to do is just draw the area and crimes will be found 
+![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/insidepolygon_query.png)
+* k-NN or Nearest Neighbour:
+Let's find closest crimes to a specified one
+![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/knn_query.png)
+* Cluster Linkages (Complete Linkage)
+![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/complete_linkage.png)
