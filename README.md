@@ -17,6 +17,12 @@ The application is written on R language and uses the following main libraries:
 -	DBI and RPostgreSQL
 
 # Dataset Description
+The first dataset contains crime data and can be easily downloaded from the website of New York City:
+* NYC Open Data: https://opendata.cityofnewyork.us/
+The second dataset contains boroughs of New York:
+* ArcGIS Hub: https://hub.arcgis.com/datasets/DCP::new-york-city-borough-boundary-clipped-to-shoreline
+![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/city.png)
+![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/data_set.png)
 
 # Database description
 The application uses PostgreSQL and PostGIS extension for spatial queries. Before inserting the data into the database, all tables and PostGIS extension have to be created.
