@@ -56,3 +56,6 @@ Let's find closest crimes to a specified one
 ![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/knn_query.png)
 * Cluster Linkages (Complete Linkage): The distance between two farthest points in clusters
 ![alt text](https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/complete_linkage.png)
+
+# Finally  
+The developed application demonstrates complexity of spatial queries as well as provides visualization of crimes in New York city. It gives opportunities to see crimes hot spots, apply different sorting algorithms, insert new data and make complex spatial queries. The main focus of the application is a demonstration of different variety of spatial queries. Hence, in order to be a complete crime mapping application the functionality must be extended.
