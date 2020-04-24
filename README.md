@@ -1,6 +1,8 @@
 # Crime-GEO-Application
 GEO Application for crime mapping and spatial queries.
 
+https://github.com/vadikl/Crime-GEO-Application/blob/master/data/pics/interface.png
+
 Dozens of crimes are taking place these days and  mapping a crime is probably the best approach to visualize and analyze crime data.
 It is a key component which allows police officers and criminalysts identify patterns in crimes:
 - Hot Spots
